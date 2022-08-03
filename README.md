@@ -1,5 +1,3 @@
-**Read in other languages: [Русский](README.md).**
-
 # React homework template
 
 Этот проект был создан при помощи
@@ -9,10 +7,13 @@
 
 ## Images
 
-Приложение поиска изображений по ключевому слову. Превью рабочего приложения смотри по [ссылке](https://drive.google.com/file/d/1oXCGyiq4uKwW0zzraZLKk4lh3voBlBzZ/view).
+Приложение поиска изображений по ключевому слову. Превью рабочего приложения
+смотри по
+[ссылке](https://drive.google.com/file/d/1oXCGyiq4uKwW0zzraZLKk4lh3voBlBzZ/view).
 Demo: https://aiilui19.github.io/goit-react-hw-04-images/
 
 ## Demo/Preview
 
+![GitHub Pages settings](./src/img/gallery.jpg)
 
-
+Module window ![GitHub Pages settings](./src/img/6796ffd94c.jpg)
